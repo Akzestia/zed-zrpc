@@ -1,0 +1,4 @@
+name = "Zrpc"
+grammar = "zrpc"
+path_suffixes = ["zrpc"]
+line_comments = ["// "]
