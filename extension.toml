@@ -4,7 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Akzestia akzestia@zurui.io"]
 description = "Zrpc syntax highlighting"
-repository = "https://github.com/Akzestia/tree-sitter-zrpc"
+repository = "https://github.com/Akzestia/zed-zrpc"
 
 [grammars.zrpc]
 repository = "https://github.com/Akzestia/tree-sitter-zrpc"
