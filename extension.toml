@@ -8,4 +8,4 @@ repository = "https://github.com/Akzestia/zed-zrpc"
 
 [grammars.zrpc]
 repository = "https://github.com/Akzestia/tree-sitter-zrpc"
-rev = "329be564b9042afbdba3d3b1855a2476bbb1d616"
+rev = "b42bf0704c22e7678ab8a5490f3e127b469f90de"
