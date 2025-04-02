@@ -2,10 +2,7 @@
 
 [🇺🇸 English](README.md) | [🇯🇵 日本語](README_jap.md)
 
-</br>
 <img src="assets/scheme_preview.png">
 <img src="assets/route_preview.png">
-</br>
-
 
 Zed での [zrpc](https://github.com/Akzestia/zrpc.git) の構文強調表示。
