@@ -1,11 +1,11 @@
 id = "zrpc"
-name = "Zrpc Tree Sitter"
+name = "Zrpc"
+description = "Zrpc syntax highlighting"
 version = "0.0.1"
 schema_version = 1
-authors = ["Akzestia akzestia@zurui.io"]
-description = "Zrpc syntax highlighting"
+authors = ["Akzestia"]
 repository = "https://github.com/Akzestia/zed-zrpc"
 
 [grammars.zrpc]
 repository = "https://github.com/Akzestia/tree-sitter-zrpc"
-rev = "2f4eacac84a6e8bff6b32b5361e8bcd6bf0f4562"
+rev = "329be564b9042afbdba3d3b1855a2476bbb1d616"
