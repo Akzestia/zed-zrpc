@@ -4,9 +4,6 @@
 
 </br>
 <img src="assets/scheme_preview.png">
-</br>
-
-</br>
 <img src="assets/route_preview.png">
 </br>
 
